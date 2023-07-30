@@ -8,7 +8,7 @@ print("""
                              ***  xxxx        xxxxxxx  xx  xxx xxxxxxxxx xxxxxxx xx   xxx  ***
                              ***  xxxx          xxx    xxxxxx  xxxxxxxxx xxxxxxx xxxxxx    ***
                              ***   xxxxx        xxx    xxx     xxx   xxx xx      xx   xx   ***
-                             ***     xxxxxxx    xxx    xxx     xxx   xxx xxxxxxx xx    xx  ***
+                             ***     xxxxxxx  t  xxx    xxx     xxx   xxx xxxxxxx xx    xx  ***
                              *****************************************************************
                              *****************************************************************
 
